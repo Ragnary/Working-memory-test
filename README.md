@@ -1,2 +1,2 @@
 # Working-memory-test
-Arbetsminnes test
+Tests working memory
